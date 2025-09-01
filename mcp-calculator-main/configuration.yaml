@@ -1,0 +1,7 @@
+wake_on_lan:
+
+media_player:
+  - platform: samsungtv
+    host: 192.168.0.163 # Replace with your TV's IP
+    mac: "d8:0d:17:34:d7:3f" # Replace with your TV's MAC address
+    name: Samsung Q7 TV
